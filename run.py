@@ -2,7 +2,7 @@ from httplib2 import Http
 import json, os, sched, time, datetime
 
 # You foursquare oAUTH Token
-oauth_token = "XXXXXXXXXXXX"
+oauth_token = "XXXXXXXXXXXXX"
 
 # A list of all SSID's with there Foursquare ID
 knownSSIDs = {"VikingCo": "4cf665801801a1439e58e9d4", "Boomhut": "4d4577261b62b1f7a979fde2"}
