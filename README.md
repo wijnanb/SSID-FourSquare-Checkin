@@ -3,6 +3,8 @@ SSID-FourSquare-Checkin
 
 Auto Checkin to Foursquare based on you connected SSID (Only in OSX)
 
+Feel free to extend this script or give me feedback, because I'm not a Python developer.
+
 
 ##Usage
 Browse to the folder and just run the next command in your terminal:
