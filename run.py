@@ -68,9 +68,3 @@ checkSSID(scheduler)
 
 # Tel timer to start now!
 scheduler.run()
-
-
-
-
-
-
